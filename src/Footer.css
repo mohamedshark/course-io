@@ -1,0 +1,106 @@
+body{
+    margin: 0;
+}
+
+.footer{
+    width: auto;
+    background-color: black;
+    height: auto;
+    padding-bottom: 6px;
+    margin-top: 2rem;
+}
+.footer-list{
+    display: flex;
+    justify-content: space-around;
+    width: 30%;
+    margin: auto;
+    margin-bottom: -30px;
+}
+.footer-list ul{
+    margin-top: 2rem;
+    color: aliceblue;
+    list-style: none;
+    padding: 0;
+}
+.footer-list li{
+    padding-bottom: 7px;
+    font-size: 16px;
+}
+.footer-list a{
+    text-decoration: none;
+    color: aliceblue;
+    background:
+    linear-gradient(
+      to right,
+      black,
+      black
+    ),
+    linear-gradient(
+      to right,
+      rgba(255, 0, 0, 1),
+      rgba(255, 0, 180, 1),
+      rgba(0, 100, 200, 1)
+  );
+  background-size: 100% 2px, 0 2px;
+  background-position: 100% 100%, 0 100%;
+  background-repeat: no-repeat;
+  transition: background-size 400ms;
+}
+
+.footer-list a:hover {
+    background-size: 0 2px, 100% 2px;
+  }
+
+.coursesIO-logo img{
+    width: 150px;
+}
+
+.copy-rights{
+    color: aliceblue;
+    width: 170px;
+    font-family: monospace;
+    font-size: 14px;
+
+}
+.logo-cr{
+    display: flex;
+    justify-content: space-between;
+    width: 98%;
+    margin: auto;
+    align-items: center;
+}
+
+@media (max-width: 1120px) {
+    .footer{
+        display: block;
+        padding-top: 5px;
+        padding-left: 30px;
+        padding-bottom: 12px;
+        text-align: left;
+        justify-content: left;
+        margin-top: 5px;
+        
+    }
+    .footer-list{
+        display: block;
+        margin-bottom: 30px;
+        margin-left: 0;
+        width: 200px;
+    }
+    .logo-cr{
+        display: block;
+        padding-bottom: 12px;
+        font-family: monospace;
+    }
+    .coursesIO-logo img{
+        width: 120px;
+    }
+    
+    .copy-rights{
+        padding-top: 3px;
+        width: 150px;
+        font-size: 12px;
+        margin-right: -10px;
+    }
+    
+}
