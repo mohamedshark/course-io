@@ -23,7 +23,7 @@ const NavBar = () => {
     return (
         <nav className="nav-bar" style={{width : open? "80%": "35%"}}>
             <div id="Logo" className={open? "Logo-rotate": "Logo-rotate-again"}>
-                <a href=""><img src="public/c1.png" alt="Courses.io" /></a>
+                <a href=""><img src="c1.png" alt="Courses.io" /></a>
             </div>
 
             <div className="nav-list-items">
