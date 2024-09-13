@@ -85,10 +85,10 @@ const CoursesSelection = ()=>{
                         support, Python is a powerful tool for modern programming.</h3>
 
                 <div className="courses-container-python">
-                    <a href=""><img src="/python1.jpg" alt="" /></a>
-                    <a href=""><img src="/python2.jpg" alt="" /></a>
-                    <a href=""><img src="/python3.jpg" alt="" /></a>
-                    <a href=""><img src="/python4.jpg" alt="" /></a>
+                    <a href=""><img src="python1.jpg" alt="" /></a>
+                    <a href=""><img src="python2.jpg" alt="" /></a>
+                    <a href=""><img src="python3.jpg" alt="" /></a>
+                    <a href=""><img src="python4.jpg" alt="" /></a>
                 </div>
 
                 <div id="Explore-python-container"><button id="Explore-python">Explore Python</button></div>
@@ -107,10 +107,10 @@ const CoursesSelection = ()=>{
                         applications.</h3>
 
                 <div className="courses-container-react">
-                    <a href=""><img src="/react1.jpg" alt="" /></a>
-                    <a href=""><img src="/react2.jpg" alt="" /></a>
-                    <a href=""><img src="/react3.jpg" alt="" /></a>
-                    <a href=""><img src="/react4.jpg" alt="" /></a>
+                    <a href=""><img src="react1.jpg" alt="" /></a>
+                    <a href=""><img src="react2.jpg" alt="" /></a>
+                    <a href=""><img src="react3.jpg" alt="" /></a>
+                    <a href=""><img src="react4.jpg" alt="" /></a>
                 </div>
 
                 <div id="Explore-react-container"><button id="Explore-react">Explore React</button></div>
@@ -128,10 +128,10 @@ const CoursesSelection = ()=>{
                         topics like Spring and Hibernate.</h3>
 
                 <div className="courses-container-java">
-                    <a href=""><img src="/java1.jpg" alt="" /></a>
-                    <a href=""><img src="/java2.jpg" alt="" /></a>
-                    <a href=""><img src="/java3.jpg" alt="" /></a>
-                    <a href=""><img src="/java4.jpg" alt="" /></a>
+                    <a href=""><img src="java1.jpg" alt="" /></a>
+                    <a href=""><img src="java2.jpg" alt="" /></a>
+                    <a href=""><img src="java3.jpg" alt="" /></a>
+                    <a href=""><img src="java4.jpg" alt="" /></a>
                 </div>
 
                 <div id="Explore-java-container"><button id="Explore-java">Explore Java</button></div>
@@ -148,10 +148,10 @@ const CoursesSelection = ()=>{
                         Node.js, React, and more, equipping you to create full-stack solutions.</h3>
 
                 <div className="courses-container-js">
-                    <a href=""><img src="/js1.jpg" alt="" /></a>
-                    <a href=""><img src="/js2.jpg" alt="" /></a>
-                    <a href=""><img src="/js3.jpg" alt="" /></a>
-                    <a href=""><img src="/js4.jpg" alt="" /></a>
+                    <a href=""><img src="js1.jpg" alt="" /></a>
+                    <a href=""><img src="js2.jpg" alt="" /></a>
+                    <a href=""><img src="js3.jpg" alt="" /></a>
+                    <a href=""><img src="js4.jpg" alt="" /></a>
                 </div>
 
                 <div id="Explore-js-container"><button id="Explore-js">Explore JavaScript</button></div>
@@ -170,10 +170,10 @@ const CoursesSelection = ()=>{
                         to advanced memory management techniques.</h3>
 
                 <div className="courses-container-cplus">
-                    <a href=""><img src="/cplus1.jpg" alt="" /></a>
-                    <a href=""><img src="/cplus2.jpg" alt="" /></a>
-                    <a href=""><img src="/cplus3.jpg" alt="" /></a>
-                    <a href=""><img src="/cplus4.jpg" alt="" /></a>
+                    <a href=""><img src="cplus1.jpg" alt="" /></a>
+                    <a href=""><img src="cplus2.jpg" alt="" /></a>
+                    <a href=""><img src="cplus3.jpg" alt="" /></a>
+                    <a href=""><img src="cplus4.jpg" alt="" /></a>
                 </div>
 
                 <div id="Explore-cplus-container"><button id="Explore-cplus">Explore C++</button></div>
@@ -190,10 +190,10 @@ const CoursesSelection = ()=>{
                         scalable, efficient solutions for desktop, mobile, and web environments.</h3>
 
                 <div className="courses-container-csharp">
-                    <a href=""><img src="/csharp1.jpg" alt="" /></a>
-                    <a href=""><img src="/csharp2.jpg" alt="" /></a>
-                    <a href=""><img src="/csharp3.jpg" alt="" /></a>
-                    <a href=""><img src="/csharp4.jpg" alt="" /></a>
+                    <a href=""><img src="csharp1.jpg" alt="" /></a>
+                    <a href=""><img src="csharp2.jpg" alt="" /></a>
+                    <a href=""><img src="csharp3.jpg" alt="" /></a>
+                    <a href=""><img src="csharp4.jpg" alt="" /></a>
                 </div>
 
                 <div id="Explore-csharp-container"><button id="Explore-csharp">Explore C#</button></div>
